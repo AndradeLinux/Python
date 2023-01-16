@@ -1,0 +1,5 @@
+teste = input('Digite algo: ')
+print(teste.isnumeric())
+print(teste.isalnum())
+print(teste.isalpha())
+print(teste.islower())
